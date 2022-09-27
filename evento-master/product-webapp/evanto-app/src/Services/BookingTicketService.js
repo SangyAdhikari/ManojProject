@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // let baseURL = "http://localhost:8080";
-let baseURL = "http://34.233.16.218:8080";
+let baseURL = "http://3.126.150.116:8080";
 
 
 export function getBookingHistorybyEmailid(emailid,callback, errorcallback) {
